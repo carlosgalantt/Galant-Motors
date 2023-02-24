@@ -1,6 +1,9 @@
 # Galant-Motors <br>
 
+## 💻 Sobre o projeto
 ### Um site fictício em que se vende carros de luxo, como Lamborghini e BMW. Além disso, é possível acessar informações da empresa de forma interativa e facilitada.
+ 
+ ## 🎨 Layout web
  
 OBS: As imagens abaixo estão levemente amareladas, mas suas cores originais são brancas.
 <br><br>
@@ -11,4 +14,8 @@ OBS: As imagens abaixo estão levemente amareladas, mas suas cores originais sã
 ![motors4](https://user-images.githubusercontent.com/123756073/221273689-b8719f56-9ef5-4f0e-8033-fbe601c300dc.png)
 ![motors5](https://user-images.githubusercontent.com/123756073/221273713-abfc7de0-b5ba-4b5a-b759-6e4bf015a6bb.png)
 
+## 🛠 Tecnologias
+### Feito com replit e finalizado com Visual Studio Code
 
+## 🦸 Autor
+### Carlos Henrique Galant
